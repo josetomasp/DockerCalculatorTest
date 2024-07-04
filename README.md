@@ -1,2 +1,16 @@
-# DockerCalculatorTest
-The provided Java TestNG code automates Docker commands to test a calculator CLI app. It verifies operations (add, subtract, multiply, divide), handles division by zero, and checks for invalid operand errors. Tests run Docker commands, asserting expected outputs. Maven setup in pom.xml manages dependencies and test execution.
+# Docker CLI Calculator Test Suite
+
+## Overview
+This project contains a TestNG-based Java test suite that automates the execution of Docker commands to test a calculator CLI application. The suite verifies basic arithmetic operations, handles division by zero, and checks for error messages when invalid operand counts are provided.
+
+## Prerequisites
+- Docker installed and running
+- Maven installed
+- Java Development Kit (JDK) installed
+
+## Setup
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/josetomasp/DockerCalculatorTest.git
+   cd DockerCalculatorTest
