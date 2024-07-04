@@ -8,6 +8,9 @@ This project contains a TestNG-based Java test suite that automates the executio
 - Maven installed
 - Java Development Kit (JDK) installed
 
+## Documentation
+- Document added to main repository. DockerCalculator.pdf
+
 ## Setup
 
 1. **Clone the repository**:
